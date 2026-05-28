@@ -16,3 +16,4 @@ The following table describes which subtasks are included in each test group.
 ### Notes
 - A test group may cover multiple subtasks simultaneously.
 - The `Sample` group corresponds to the public sample test cases.
+- teleport_X_Y means the Y-th test case of the X-th test group.
